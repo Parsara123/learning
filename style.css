@@ -67,3 +67,10 @@ h1 {
 #taskList Li button:hover {
     background-color: #c82333;
 }
+
+.completed {
+    text-decoration: line-through;
+    color: #888; 
+    background-color: #e9ecef !important; 
+}
+
